@@ -3,8 +3,21 @@
 
     <string name="app_name">ASport</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Welkom bij ASport\n\nSelecteer de knop die bij uw situatie past.</string>
     <string name="welcome_user1">Ik ben een jeugdschutter</string>
     <string name="welcome_user2">Ik ben een trainer</string>
+    <string name="title_activity_main_user1">Schutter</string>
+    <string name="user1_welcome">Welkom terug, schutter!</string>
+    <string name="main_username">Gebruikersnaam</string>
+    <string name="main_password">Wachtwoord...</string>
+    <string name="main_login">Inloggen</string>
+    <string name="user1_training">Trainingen</string>
+    <string name="user1_match">Wedstrijden</string>
+    <string name="user1_messages">Berichten</string>
+    <string name="title_activity_main_user2">Trainer</string>
+    <string name="hello_world">Welkom bij ASport\n\nVul hieronder uw gegevens in om in te loggen.</string>
+    <string name="user2_welcome">Welkom terug, trainer!</string>
+    <string name="user2_training">Trainingen</string>
+    <string name="user2_stats">Wedstrijden</string>
+    <string name="user2_messages">Berichten</string>
 
 </resources>
