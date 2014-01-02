@@ -31,6 +31,14 @@
             android:name="com.therbom.asport.MainUser2Activity"
             android:label="@string/title_activity_main_user2" >
         </activity>
+        <activity
+            android:name="com.therbom.asport.TrainingUser1Activity"
+            android:label="@string/title_activity_training_user1"
+            android:parentActivityName="com.therbom.asport.MainUser1Activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.therbom.asport.MainUser1Activity" />
+        </activity>
     </application>
 
 </manifest>

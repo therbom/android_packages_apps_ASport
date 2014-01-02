@@ -19,5 +19,9 @@
     <string name="user2_training">Trainingen</string>
     <string name="user2_stats">Wedstrijden</string>
     <string name="user2_messages">Berichten</string>
+    <string name="title_activity_training_user1">Type training</string>
+    <string name="user1_training_kracht">Krachttraining</string>
+    <string name="user1_training_conditie">Conditietraining</string>
+    <string name="user1_training_schiet">Schiettraining</string>
 
 </resources>

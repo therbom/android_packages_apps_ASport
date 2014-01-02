@@ -6,23 +6,15 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".MainUser1Activity" >
-
-    <TextView
-        android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/user1_welcome" />
+    tools:context=".TrainingUser1Activity" >
 
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="80dp"
-        android:onClick="setTrainingActivity"
-        android:text="@string/user1_training" />
+        android:layout_marginTop="69dp"
+        android:text="@string/user1_training_kracht" />
 
     <Button
         android:id="@+id/button2"
@@ -30,8 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/button1"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="26dp"
-        android:text="@string/user1_match" />
+        android:layout_marginTop="24dp"
+        android:text="@string/user1_training_conditie" />
 
     <Button
         android:id="@+id/button3"
@@ -39,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/button2"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="27dp"
-        android:text="@string/user1_messages" />
+        android:layout_marginTop="28dp"
+        android:text="@string/user1_training_schiet" />
 
 </RelativeLayout>

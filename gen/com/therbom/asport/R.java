@@ -34,13 +34,15 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_user1_main=0x7f030000;
-        public static final int activity_user2_main=0x7f030001;
-        public static final int activity_welcome=0x7f030002;
+        public static final int activity_user1_training=0x7f030001;
+        public static final int activity_user2_main=0x7f030002;
+        public static final int activity_welcome=0x7f030003;
     }
     public static final class menu {
         public static final int main_user1=0x7f070000;
         public static final int main_user2=0x7f070001;
-        public static final int welcome=0x7f070002;
+        public static final int training_user1=0x7f070002;
+        public static final int welcome=0x7f070003;
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
@@ -51,9 +53,13 @@ public final class R {
         public static final int main_username=0x7f050006;
         public static final int title_activity_main_user1=0x7f050004;
         public static final int title_activity_main_user2=0x7f05000c;
+        public static final int title_activity_training_user1=0x7f050012;
         public static final int user1_match=0x7f05000a;
         public static final int user1_messages=0x7f05000b;
         public static final int user1_training=0x7f050009;
+        public static final int user1_training_conditie=0x7f050014;
+        public static final int user1_training_kracht=0x7f050013;
+        public static final int user1_training_schiet=0x7f050015;
         public static final int user1_welcome=0x7f050005;
         public static final int user2_messages=0x7f050011;
         public static final int user2_stats=0x7f050010;
