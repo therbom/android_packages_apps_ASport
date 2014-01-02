@@ -49,4 +49,16 @@
         android:onClick="goBack"
         android:text="@android:string/ok" />
 
+    <EditText
+        android:hint="Aantal herhalingen"
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/radioButton4"
+        android:layout_below="@+id/radioButton4"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
 </RelativeLayout>
