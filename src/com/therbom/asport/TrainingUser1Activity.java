@@ -2,8 +2,10 @@ package com.therbom.asport;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.support.v4.app.NavUtils;
 
 public class TrainingUser1Activity extends Activity {
@@ -47,6 +49,21 @@ public class TrainingUser1Activity extends Activity {
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
+	}
+	
+	public void setKracht(View view) {
+		Intent intent = new Intent(TrainingUser1Activity.this, User1TrainingKrachtActivity.class);
+        startActivity(intent);
+	}
+	
+	public void setSchiet(View view) {
+		Intent intent = new Intent(TrainingUser1Activity.this, User1TrainingSchietActivity.class);
+        startActivity(intent);
+	}
+	
+	public void setConditie(View view) {
+		Intent intent = new Intent(TrainingUser1Activity.this, User1TrainingConditieActivity.class);
+        startActivity(intent);
 	}
 
 }

@@ -20,8 +20,11 @@
     <string name="user2_stats">Wedstrijden</string>
     <string name="user2_messages">Berichten</string>
     <string name="title_activity_training_user1">Type training</string>
-    <string name="user1_training_kracht">Krachttraining</string>
-    <string name="user1_training_conditie">Conditietraining</string>
-    <string name="user1_training_schiet">Schiettraining</string>
+    <string name="user1_training_kracht">Nieuwe krachttraining</string>
+    <string name="user1_training_conditie">Nieuwe conditietraining</string>
+    <string name="user1_training_schiet">Nieuwe schiettraining</string>
+    <string name="title_activity_user1_training_kracht">Krachttraining</string>
+    <string name="title_activity_user1_training_schiet">Schiettraining</string>
+    <string name="title_activity_user1_training_conditie">Conditietraining</string>
 
 </resources>

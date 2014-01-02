@@ -39,6 +39,18 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.therbom.asport.MainUser1Activity" />
         </activity>
+        <activity
+            android:name="com.therbom.asport.User1TrainingKrachtActivity"
+            android:label="@string/title_activity_user1_training_kracht" >
+        </activity>
+        <activity
+            android:name="com.therbom.asport.User1TrainingSchietActivity"
+            android:label="@string/title_activity_user1_training_schiet" >
+        </activity>
+        <activity
+            android:name="com.therbom.asport.User1TrainingConditieActivity"
+            android:label="@string/title_activity_user1_training_conditie" >
+        </activity>
     </application>
 
 </manifest>
