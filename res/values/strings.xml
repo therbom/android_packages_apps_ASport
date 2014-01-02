@@ -3,6 +3,8 @@
 
     <string name="app_name">ASport</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Welkom bij ASport\n\nSelecteer de knop die bij uw situatie past.</string>
+    <string name="welcome_user1">Ik ben een jeugdschutter</string>
+    <string name="welcome_user2">Ik ben een trainer</string>
 
 </resources>
